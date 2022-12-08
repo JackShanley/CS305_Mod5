@@ -9,3 +9,6 @@ Runescape is an old school MMORPG that takes little to no resources to run and i
 
 # Menu Mechanics
 The player will be able to press the ESC key on their keyboard and an interactive menu will pop-up on their screen. This menu will have "Continue","Settings", and "Exit" buttons. 
+
+## License
+This project is licensed under the GNU GPLv3 License, see the LICENSE.md file for more information.
