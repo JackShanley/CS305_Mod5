@@ -8,4 +8,4 @@ in the game, Old School Runescape.
 Runescape is an old school MMORPG that takes little to no resources to run and is fun to play with friends. It has quite the learning curve and will take too much time to complete.
 
 # Menu Mechanics
-The player will be able to press the ESC key on their keyboard and a interactive menu will pop-up on their screen. This menu will have "Continue","Settings", and "Exit" buttons. 
+The player will be able to press the ESC key on their keyboard and an interactive menu will pop-up on their screen. This menu will have "Continue","Settings", and "Exit" buttons. 
